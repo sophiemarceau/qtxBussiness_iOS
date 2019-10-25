@@ -1,0 +1,146 @@
+{
+  "data": [
+{
+    "value": "999999",
+    "text": "全部行业",
+    "children": [
+                 {"value": "999999","text": "全部行业"}
+                ]}
+,{
+	"value":"103000","text":"建材装饰","isHot":"1",
+	"children": [
+		{"value":"103000","text":"全部","isHot":"1"},
+		{"value":"103101","text":"地板/瓷砖","isHot":""}, 
+		{"value":"103102","text":"厨柜/衣柜定制","isHot":""}, 
+		{"value":"103103","text":"涂料/墙饰/壁纸","isHot":""},
+		{"value":"103104","text":"门/锁/窗/楼梯","isHot":""}, 
+		{"value":"103105","text":"照明/灯饰","isHot":""}, 
+		{"value":"103106","text":"墙板/吊顶/板材","isHot":""}, 
+		{"value":"103107","text":"卫浴/洁具/浴室","isHot":""},
+		{"value":"103108","text":"成品家具","isHot":""},
+		{"value":"103109","text":"装修装饰公司","isHot":""}
+	]}
+,{
+	"value":"105000","text":"教育培训","isHot":"1",
+	"children": [
+		{"value":"105000","text":"全部","isHot":"1"},
+		{"value":"105101","text":"早教","isHot":""},
+		{"value":"105102","text":"学科教育","isHot":""},
+		{"value":"105103","text":"技能培训","isHot":""},
+		{"value":"105104","text":"兴趣教育","isHot":""}
+	]}
+,{
+	"value":"101000","text":"餐饮小吃","isHot":"1",
+	"children": [
+		{"value":"101000","text":"全部","isHot":"1"},
+		{"value":"101101","text":"火锅","isHot":""}, 
+		{"value":"101102","text":"中餐","isHot":""}, 
+		{"value":"101103","text":"快餐","isHot":""}, 
+		{"value":"101104","text":"面馆","isHot":""}, 
+		{"value":"101105","text":"日韩料理西餐","isHot":""},
+		{"value":"101106","text":"休闲小吃","isHot":""}
+	]}
+,{
+	"value":"118000","text":"互联网+","isHot":"",
+	"children": [
+		{"value":"118000","text":"全部","isHot":""}
+	]}
+,{
+	"value":"109000","text":"干洗清洁","isHot":"",
+	"children": [
+		{"value":"109000","text":"全部","isHot":""}
+	]}
+,{
+	"value":"110000","text":"酒水饮料","isHot":"",
+	"children": [
+		{"value":"110000","text":"全部","isHot":""},
+		{"value":"110101","text":"白酒","isHot":""}, 
+		{"value":"110102","text":"葡萄酒","isHot":""}, 
+		{"value":"110103","text":"啤酒","isHot":""}, 
+		{"value":"110104","text":"黄酒","isHot":""}, 
+		{"value":"110105","text":"果汁","isHot":""},
+		{"value":"110106","text":"碳酸饮料","isHot":""},
+		{"value":"110107","text":"其它","isHot":""}
+	]}
+,{
+	"value":"116000","text":"新奇特","isHot":"",
+	"children": [
+		{"value":"116000","text":"新奇特","isHot":""}
+	]}
+,{
+	"value":"107000","text":"母婴用品","isHot":"1",
+	"children": [
+		{"value":"107000","text":"全部","isHot":""},
+		{"value":"107101","text":"婴儿用品","isHot":""}, 
+		{"value":"107102","text":"婴儿哺乳","isHot":""}, 
+		{"value":"107103","text":"智力开发","isHot":""}, 
+		{"value":"107104","text":"妈咪护理","isHot":""}		
+	]}
+,{
+	"value":"117000","text":"家居用品","isHot":"",
+	"children": [
+		{"value":"117000","text":"全部","isHot":""},
+		{"value":"117101","text":"家纺","isHot":""}, 
+		{"value":"117102","text":"布艺窗帘","isHot":""}, 
+		{"value":"117103","text":"家饰摆设","isHot":""}
+	]}
+,{
+	"value":"11500","text":"礼品饰品","isHot":"",
+	"children": [
+		{"value":"115000","text":"全部","isHot":""}
+	]}
+,{
+	"value":"102000","text":"服装鞋帽","isHot":"",
+	"children": [
+		{"value":"102000","text":"全部","isHot":""},
+		{"value":"102101","text":"女装","isHot":""}, 
+		{"value":"102102","text":"男装","isHot":""}, 
+		{"value":"102103","text":"内衣","isHot":""}, 
+		{"value":"102104","text":"户外用品","isHot":""}, 
+		{"value":"102105","text":"鞋业","isHot":""},
+		{"value":"102106","text":"帽业箱包","isHot":""}
+	]}
+,{
+	"value":"104000","text":"环保机械","isHot":"",
+	"children": [
+		{"value":"104000","text":"全部","isHot":""}
+	]}
+,{
+	"value":"108000","text":"汽摩交通","isHot":"",
+	"children": [
+		{"value":"108000","text":"全部","isHot":""},
+		{"value":"108101","text":"保养","isHot":""},
+		{"value":"108102","text":"洗车","isHot":""},
+		{"value":"108103","text":"维修","isHot":""},
+		{"value":"108104","text":"配件经销","isHot":""}	
+	]}
+,{
+	"value":"111000","text":"通讯家电","isHot":"",
+	"children": [
+		{"value":"111100","text":"全部","isHot":""}
+	]}
+,{
+	"value":"112000","text":"医疗保健","isHot":"",
+	"children": [
+		{"value":"112000","text":"全部","isHot":""}
+	]}
+,{
+	"value":"113000","text":"企业服务","isHot":"",
+	"children": [
+		{"value":"113000","text":"全部","isHot":""}
+	]}
+,{
+	"value":"106000","text":"美容健身","isHot":"",
+	"children": [
+		{"value":"106000","text":"全部","isHot":""},
+		{"value":"106101","text":"美容美发","isHot":""}, 
+		{"value":"106102","text":"健身会所","isHot":""}, 
+	]}	
+,{
+	"value":"114000","text":"休闲娱乐","isHot":"",
+    "children": [
+        {"value":"114000","text":"全部","isHot":""}
+    ]
+	}
+
+]} 
